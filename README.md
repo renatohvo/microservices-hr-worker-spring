@@ -9,3 +9,14 @@ Microsserviços de Trabalhadores com Spring Boot & Spring Cloud.
 Em Construção.
 
 [Udemy](https://www.udemy.com/course/microsservicos-java-spring-cloud "https://www.udemy.com/course/microsservicos-java-spring-cloud") - [Nelio Alves](https://github.com/acenelio "@acenelio")
+
+## Visão geral
+![MongoDB Compass](https://github.com/renatohvo/assets/raw/main/ms-hr-worker/visao-hr-worker.png)
+
+![Modelo Conceitual](https://github.com/renatohvo/assets/raw/main/ms-hr-worker/modeloconceitual-hr-worker.png)
+
+## Autor
+
+Renato Henrique Vasconcelos
+
+https://www.linkedin.com/in/renatohvo/
